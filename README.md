@@ -12,6 +12,13 @@
 
 📈 Aspiring Project Manager and Business Analyst passionate about Business Analytics, HR Analytics, AI-driven decision-making, and process improvement.
 
+## Currently Working On
+
+- Power BI Analytics Projects
+- HR Analytics & Workforce Intelligence
+- Business Analytics Portfolio
+- Project Management Skills (Agile & Scrum)
+
 ## Professional Experience
 
 ### Tata Steel | Data Analytics Intern
