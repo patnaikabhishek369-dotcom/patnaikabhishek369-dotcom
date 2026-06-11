@@ -10,7 +10,7 @@
 
 🛒 E-Commerce Management Intern at R.S. Industries
 
-📈 Aspiring Project Manager and Data Analyst passionate about Business Analytics, HR Analytics, AI-driven decision-making, and process improvement.
+📈 Aspiring Project Manager and Business Analyst passionate about Business Analytics, HR Analytics, AI-driven decision-making, and process improvement.
 
 ## Professional Experience
 
